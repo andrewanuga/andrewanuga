@@ -37,21 +37,17 @@ I am a software engineer dedicated to building high-fidelity, scalable applicati
 
 #### [Aurax](https://github.com/andrewanuga/Aurax)
 An AI-powered Ecommerce website
-*Tech: TypeScript, React + Vite*
+*Tech: TypeScript, Next + Vite*
 
-#### [Modern Full-Stack Portfolio](https://github.com/your-username/portfolio)
-My digital handshake—a high-fidelity showcase of my engineering journey and growth.
-*Tech: Next.js 14, Framer Motion, Tailwind CSS*
-
-#### [Cross-Platform Mobile App](https://github.com/your-username/mobile-project)
-A high-performance mobile solution built for scalability and smooth user interactions.
-*Tech: React Native, Expo, TanStack Query*
+#### [Modern Full-Stack Saas social Platform](https://github.com/andrewanuga/Socially)
+An Ai powered Full Stack Saas Application
+*Tech: React.ts 14, Framer Motion, Tailwind CSS, Node ts, Prisma , Postgress*
 
 ---
 
 ### 📊 GitHub Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewanuga&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewanuga&layout=compact&theme=dark)
 
 ---
 
